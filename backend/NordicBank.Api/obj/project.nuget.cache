@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/7Cs8s0QVyE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kiran\\NordicBank\\backend\\NordicBank.Api\\NordicBank.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kiran\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.1\\microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
+    "C:\\Users\\kiran\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
